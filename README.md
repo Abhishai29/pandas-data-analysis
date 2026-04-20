@@ -41,14 +41,17 @@ This repository contains scripts demonstrating foundational data manipulation an
 
 To run these scripts, you will need Python installed along with the required libraries. You can install them using pip:
 
-- pip install pandas seaborn matplotlib
+```bash```<br>
+```pip install pandas seaborn matplotlib ```
 
 ## How to Run
 
 To execute the basic Pandas analysis:
-- python analysis.py
+
+```python analysis.py```
 
 To run the Titanic dataset EDA and generate the visualizations:
-- python data_real_cvs.py
+
+```python data_real_cvs.py```
   
 (Note: When running data_real_cvs.py, close each plot window to generate the next one.)
